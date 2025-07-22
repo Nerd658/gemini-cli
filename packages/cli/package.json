@@ -1,5 +1,5 @@
 {
-  "name": "@google/gemini-cli",
+  "name": "@google/cybercli",
   "version": "0.1.13",
   "description": "Gemini CLI",
   "repository": {
@@ -9,7 +9,7 @@
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "gemini": "dist/index.js"
+    "cybercli": "dist/index.js"
   },
   "scripts": {
     "build": "node ../../scripts/build_package.js",

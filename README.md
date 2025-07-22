@@ -1,13 +1,13 @@
-# Gemini CLI
+# CyberCLI
 
-[![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
+[![CyberCLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
 
-![Gemini CLI Screenshot](./docs/assets/gemini-screenshot.png)
+![CyberCLI Screenshot](./docs/assets/gemini-screenshot.png)
 
-This repository contains the Gemini CLI, a command-line AI workflow tool that connects to your
+This repository contains the CyberCLI, a command-line AI workflow tool that connects to your
 tools, understands your code and accelerates your workflows.
 
-With the Gemini CLI you can:
+With the CyberCLI you can:
 
 - Query and edit large codebases in and beyond Gemini's 1M token context window.
 - Generate new apps from PDFs or sketches, using Gemini's multimodal capabilities.
@@ -41,7 +41,7 @@ With the Gemini CLI you can:
 3. **Pick a color theme**
 4. **Authenticate:** When prompted, sign in with your personal Google account. This will grant you up to 60 model requests per minute and 1,000 model requests per day using Gemini.
 
-You are now ready to use the Gemini CLI!
+You are now ready to use the CyberCLI!
 
 ### Use a Gemini API key:
 
@@ -159,4 +159,4 @@ Head over to the [Uninstall](docs/Uninstall.md) guide for uninstallation instruc
 
 ## Terms of Service and Privacy Notice
 
-For details on the terms of service and privacy notice applicable to your use of Gemini CLI, see the [Terms of Service and Privacy Notice](./docs/tos-privacy.md).
+For details on the terms of service and privacy notice applicable to your use of CyberCLI, see the [Terms of Service and Privacy Notice](./docs/tos-privacy.md).
